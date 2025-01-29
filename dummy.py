@@ -1,0 +1,2 @@
+x="dummy"
+print(x)
